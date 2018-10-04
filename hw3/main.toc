@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {subsection}{\numberline {1.1}Problem statement}{4}
+\contentsline {subsection}{\numberline {1.2}Stencil}{4}
+\contentsline {section}{\numberline {2}Gauss Seidel}{6}
+\contentsline {subsection}{\numberline {2.1}Results}{6}
+\contentsline {subsection}{\numberline {2.2}Convergent Analysis}{8}
+\contentsline {section}{\numberline {3}Conjugate Gradient Method without Preconditioner}{8}
+\contentsline {subsection}{\numberline {3.1}Results}{8}
+\contentsline {subsection}{\numberline {3.2}Convergent Analysis}{8}
+\contentsline {section}{\numberline {4}Conjugate Gradient Method with Incomplete Cholesky Decomposition}{8}
+\contentsline {subsection}{\numberline {4.1}Results}{8}
+\contentsline {subsection}{\numberline {4.2}Convergent Analysis}{8}

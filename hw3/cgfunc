@@ -1,0 +1,1 @@
+function cg = cgfunc(A,r,tol)
